@@ -23,7 +23,7 @@ A simple and responsive Pokedex web application built using React and [PokeAPI](
 - React Router DOM (`Link`, `Routes`, `Route`, `useParams`)
 - `useState`, `useEffect`, custom hooks (like `useDebounce`)
 - Redux (with `useSelector`) if state is shared
-- Tailwind CSS or CSS Modules (if styled)
+- Media Quary for resposive design 
 
 
 ## 🚀 Getting Started
