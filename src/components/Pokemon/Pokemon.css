@@ -31,9 +31,9 @@
 
 }
 
-@media (max-width: 400px) {
+/* @media (max-width: 400px) {
    #image-set {
-    width: 4.75rem;       /* 35 × 0.25rem = 8.75rem = 140px */
+    width: 4.75rem;       
     height: 4.75rem;
    }
    .pokemon {
@@ -41,4 +41,4 @@
     padding: 0.5rem;
    
 }
-}
+} */
