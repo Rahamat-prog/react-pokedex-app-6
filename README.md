@@ -17,7 +17,6 @@ A simple and responsive Pokedex web application built using React and [PokeAPI](
 ---
 
 ## 🛠️ Technologies Used
-
 - React
 - Axios
 - React Router DOM (`Link`, `Routes`, `Route`, `useParams`)
@@ -55,3 +54,7 @@ MIT License. Feel free to use and modify.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Would you like me to help you generate a `.gitignore`, or set up a search component or detail view if not already implemented?
+
+
+
+// How to build this project from scratch

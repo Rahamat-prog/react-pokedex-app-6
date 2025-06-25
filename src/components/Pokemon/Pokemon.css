@@ -34,10 +34,10 @@
 }
 
 #image-set {
-    /* height: 100%;
-    max-height: 400px;
-    width: 50%; */
-    max-height: 100px;
-    /* width: auto; */
+    width: 8.75rem;       /* 35 × 0.25rem = 8.75rem = 140px */
+    height: 8.75rem;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: contain;
 
 }

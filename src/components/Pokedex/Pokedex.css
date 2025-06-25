@@ -2,5 +2,7 @@
 .pokedex-wrapper {
     display: flex;
     flex-direction: column;
+    background: linear-gradient(to bottom right, #fef9c3, #fee2e2, #fce7f3);
+
 }
 
