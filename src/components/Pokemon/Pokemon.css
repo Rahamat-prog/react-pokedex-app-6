@@ -1,15 +1,4 @@
-/* .pokemon {
-    flex-basis: 19%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 1rem;
-    gap: 8px;
-    flex-wrap: wrap;
 
-   
-} */
 
 /* using chatgpt to make it responsive updated the pokemon */
 .pokemon {
@@ -40,4 +29,16 @@
     margin-right: auto;
     object-fit: contain;
 
+}
+
+@media (max-width: 400px) {
+   #image-set {
+    width: 4.75rem;       /* 35 × 0.25rem = 8.75rem = 140px */
+    height: 4.75rem;
+   }
+   .pokemon {
+    gap: 2px;
+    padding: 0.5rem;
+   
+}
 }
